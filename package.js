@@ -9,4 +9,6 @@ Package.on_use(function (api, where) {
         'lib/namespace.js',
         'lib/Dispatcher.js'
     ], 'client');
+
+    api.export("InnoAccel");
 });

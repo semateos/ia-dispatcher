@@ -3,7 +3,7 @@
     "description": "A reactive dispatcher for meteor",
     "homepage": "https://github.com/InnoAccel/ia-dispatcher",
     "author": "Fritz Gerneth <fgerneth@effms.de>",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "git": "https://github.com/InnoAccel/ia-dispatcher.git",
     "packages": {
     }
