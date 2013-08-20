@@ -3,12 +3,10 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-    api.use(['underscore', 'deps'], 'client');
+    api.use(['ia', 'underscore', 'deps'], 'client');
 
     api.add_files([
         'lib/namespace.js',
         'lib/Dispatcher.js'
     ], 'client');
-
-    api.export("InnoAccel");
 });
